@@ -8,6 +8,7 @@
 
 h1 {
   font-family: 'Raleway', sans-serif;
+  margin: 10px;
 }
 
 input {
@@ -16,6 +17,7 @@ input {
 
 h2 {
   color: #216393;
+  margin-left: 10px;
 }
 
 .kuborobot img{
