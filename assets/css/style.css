@@ -46,3 +46,16 @@ h3 {
 .styleimg2 {
   height: 300px;
 }
+<<<<<<< HEAD
+=======
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.text {
+  display: flex;
+  text-align: center;
+}
+>>>>>>> 0fcb331cb0ea63d91e32cfea089d2e235575a9ca
