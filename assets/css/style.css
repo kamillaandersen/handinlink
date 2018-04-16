@@ -18,6 +18,15 @@ input {
 h2 {
   color: #216393;
   margin-left: 10px;
+  font-family: 'Lato', sans-serif;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+}
+
+h3 {
+  font-family: 'Lato', sans-serif;
 }
 
 .kuborobot img{
@@ -28,4 +37,17 @@ h2 {
   -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
     padding-right: 1000px;
+}
+
+.styleimg {
+  height: 500px;
+}
+
+.styleimg2 {
+  height: 300px;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
 }
