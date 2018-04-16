@@ -46,8 +46,3 @@ h3 {
 .styleimg2 {
   height: 300px;
 }
-
-.flex {
-  display: flex;
-  flex-direction: column;
-}
